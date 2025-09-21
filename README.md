@@ -39,26 +39,6 @@ I also added a few small built-in tests to check that borrowing and returning wo
 - `LibraryService.java` : main logic of the system  
 - `Main.java` : runs the demo and the tests  
 
-***
-
-## Example Output
-Clean Code (2/2)
-Design Patterns (1/1)
-u1 borrowed Clean Code
-Clean Code (1/2)
-Design Patterns (1/1)
-u1 returned Clean Code
-Clean Code (2/2)
-Design Patterns (1/1)
---- Running Simple Tests ---
-tu1 borrowed Test Book
-Test 1 Passed
-tu1 returned Test Book
-Test 2 Passed
-tu1 borrowed Test Book
-Test 3 Passed
-
-
 
 ***
 
