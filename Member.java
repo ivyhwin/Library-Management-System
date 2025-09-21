@@ -12,5 +12,5 @@ public class Member extends User {
     public Member(String id, String name) {
         super(id, name);
     }
-    // Could add member-specific methods here (e.g., getBorrowingLimit())
+    // Could add member-specific methods here 
 }
